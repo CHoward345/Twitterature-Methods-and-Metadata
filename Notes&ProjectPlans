@@ -4,12 +4,19 @@ o How did people’s practice of using Twitter & hashtags change when the charac
 o When is the architecture of Twitter changing?
 o Alternative languages? #writing in English vs. in German, etc.
 o How can literary scholars engage with Twitter data? Ethical guidelines? Scholarly methodology? Practical approaches?
-o 
 
+#What do we want from SLab
+- assistance with the tools aspect of this project/
+    - what kinds of analysis we want to do?
+    - whats the most helpful or productive? What have we already tried?
+    - What’s or most useful for literary studies?
+- text analysis using topic modeling
+- D3: Alyssa will interrogate that what questions can we ask using D3 and what questions do we want to ask?
+- GeoJSon
 
 #Things to do:
 o	Make a list of tech aspects, tools we will be using, support we might need
 o	Impediments getting or manipulating data
-o Research: What other discipines are studying Twitter/using Twitter data? 
-            What are their guidelines for engaging with Twitter? 
+o Research: What other disciplines are studying Twitter/using Twitter data?
+            What are their guidelines for engaging with Twitter?
             How do these guidelines converge/differ from our own interests?
