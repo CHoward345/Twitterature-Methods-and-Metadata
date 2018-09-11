@@ -1,0 +1,20 @@
+#Outline for White Paper
+
+##Intro
+    -Current lit review
+    -Necessity for creating a "best practices of Twitter scraping" for literary studies
+    
+##Why Twitter?
+
+##Ethical Questions and Implications
+
+##How To
+    -Scrape Twitter using TwitterScraper.py
+      -Scope of search terms
+      -Renaming of files and record keeping
+      -Space: Where to keep the files?
+    -Visualize results
+    
+##Impediments of getting or manipulating data
+
+##Further research
